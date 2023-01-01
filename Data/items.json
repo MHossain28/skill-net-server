@@ -1,0 +1,68 @@
+[
+    {
+        "id":1,
+        "title":"Html & CSS",
+        "price":40,
+        "description":"It may take you 1-2 weeks to complete the course, and about a month of practice to get comfortable with HTML and CSS. The key is to apply your learning and build projects.",
+        "image":"https://5.imimg.com/data5/ZC/JB/QT/GLADMIN-52140874/selection-087-500x500.png",
+        "rating":{
+            "rate":3.9,
+            "count":120
+        }
+    },
+    {
+        "id":2,
+        "title":"Java Script",
+        "price":50,
+        "description":"Arguably, JavaScript is one of the easiest programming languages to learn, so it serves as a great first language for anyone brand new to coding. Even the most complex lines of JavaScript code can be written one by one, in fragments. It can also be tested in the web browser at the same time.",
+        "image":"https://miro.medium.com/max/900/1*wlMbK3Uye9lULQ8STUm0JQ.png",
+        "rating":{
+            "rate":5.9,
+            "count":110
+        }
+    },
+    {
+        "id":3,
+        "title":"GitHub",
+        "price":30,
+        "description":"GitHub offers a series of interactive, on-demand training courses including Introduction to GitHub; and courses on GitHub specific tools such as GitHub Actions.",
+        "image":"https://www.devopsschool.com/assets/assets1/images/courses/github.jpg",
+        "rating":{
+            "rate":3.4,
+            "count":100
+        }
+    },
+    {
+        "id":4,
+        "title":"React",
+        "price":55,
+        "description":"ReactJS has emerged as one of the biggest libraries used by developers and businesses in the past few years. Such is its popularity that React web development was the second most-used framework in 2022, with 42.62% of software developers using it as per Statista",
+        "image":"https://i.ytimg.com/vi/gFCxjzv1Q8Q/maxresdefault.jpg",
+        "rating":{
+            "rate":3.6,
+            "count":90
+        }
+    },
+    {
+        "id":5,
+        "title":"Bootsteap",
+        "price":35,
+        "description":"Bootstrap is easy to learn. Due to its popularity, plenty of tutorials and online forums are available to help you get started. One of the reasons why Bootstrap is so popular among web developers and web designers is that it has a simple file structure.",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8hdw9mS7xgjH_-zVV0LwM1mKLhHmxzy1Wg-v_MK5wb-FJFVpdGMM0zahqhBbMrovTUVM&usqp=CAU",
+        "rating":{
+            "rate":3.2,
+            "count":80
+        }
+    },
+    {
+        "id":6,
+        "title":"Tailwind",
+        "price":33,
+        "description":"Tailwind CSS makes it quicker to write and maintain the code of your application. By using this utility-first framework, you don't have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application.",
+        "image":"https://i.ytimg.com/vi/BY6fhtCDrqU/maxresdefault.jpg",
+        "rating":{
+            "rate":3.7,
+            "count":84
+        }
+    }
+]
